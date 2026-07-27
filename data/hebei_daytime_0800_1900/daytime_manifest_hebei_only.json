@@ -1,0 +1,89 @@
+{
+  "dataset_name": "PV-Text Hebei Daytime 0800-1900",
+  "authorized_station_scope": [
+    "hebei_station00",
+    "hebei_station01",
+    "hebei_station02",
+    "hebei_station03",
+    "hebei_station04",
+    "hebei_station05",
+    "hebei_station06",
+    "hebei_station07",
+    "hebei_station08",
+    "hebei_station09"
+  ],
+  "station_count": 10,
+  "station_files": {
+    "hebei_station00": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ],
+    "hebei_station01": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ],
+    "hebei_station02": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ],
+    "hebei_station03": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ],
+    "hebei_station04": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ],
+    "hebei_station05": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ],
+    "hebei_station06": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ],
+    "hebei_station07": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ],
+    "hebei_station08": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ],
+    "hebei_station09": [
+      "context_full_day.csv",
+      "rt_text1.jsonl",
+      "rt_text2.jsonl",
+      "solar.csv",
+      "solar_with_capacity.csv"
+    ]
+  },
+  "note": "This release package contains only hebei_station00 through hebei_station09."
+}

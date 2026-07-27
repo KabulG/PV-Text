@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Training outputs
+results/
+test_results/
+checkpoints/
+logs/
+experiments*/
+*/results/
+*/checkpoints/
+*/logs/
+
+# Model output arrays
+pred.npy
+true.npy
+metrics.npy
+pred_phy.npy
+*.pt
+*.pth
+*.ckpt
+
+# Local archives generated during packaging
+PV-Text-OpenBenchmark-github.zip
